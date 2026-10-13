@@ -2,7 +2,7 @@
 
 A GPU iterative solver (Red-Black Gauss-Seidel in Numba CUDA) that generates convergence trajectories, and a decoder-only Transformer (causal masked self-attention) trained on them to anticipate the solver's remaining convergence from a mid-solve checkpoint. Everything lives in one notebook and runs end to end on a Kaggle T4 in a few minutes.
 
-**Full write-up with all numbers, figures and limitations: [REPORT.md](REPORT.md)**
+**Full write-up with all numbers, figures and limitations: [Report.pdf](Report.pdf)**
 
 ## What it does
 
